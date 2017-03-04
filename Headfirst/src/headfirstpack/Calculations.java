@@ -9,9 +9,9 @@ public class Calculations {// access identifier,class,classname
 		sum = a + b;
 		return sum;
 		//no printing of value, just returning values
-			
+
 	}
-		
+
 	public void subNum(int c, int d) {
 
 		int sub;
@@ -37,4 +37,7 @@ public class Calculations {// access identifier,class,classname
 		int remain = i % j;
 		return remain;
 	}
+	public int calcarea(int l,intb){
+		int area = l*b;
+		return area;
 }
