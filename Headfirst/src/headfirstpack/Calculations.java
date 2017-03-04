@@ -37,7 +37,7 @@ public class Calculations {// access identifier,class,classname
 		int remain = i % j;
 		return remain;
 	}
-	public int calcarea(int l,intb){
-		int area = l*b;
+	public int calcarea(float l,float b){
+		float area = l*b;
 		return area;
 }
