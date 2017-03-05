@@ -39,5 +39,5 @@ public class Calculations {// access identifier,class,classname
 	}
 	public int calcarea(int l,int b){
 		int area = l*b;
-		return area;
+		System.out.println("this is area of rectangle"  + area);
 }
